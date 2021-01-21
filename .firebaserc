@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "project3-945d1": {
+      "hosting": {
+        "angular-config": [
+          "project3-945d1"
+        ]
+      }
+    }
+  }
+}
